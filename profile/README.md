@@ -7,4 +7,4 @@ Vendanor is an independent manufacturer of vending solutions. With the origin of
 
 We are constantly looking for skilled, creative people who have a genuine interest in technology development. Feel free to check out our positions or submit an open application.
 
-
+Read more at <a href="https://vendanor.com">vendanor.com</a>
